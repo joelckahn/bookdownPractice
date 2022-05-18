@@ -1,9 +1,12 @@
---- 
+---
 title: "Gear Testing stuff cool name here"
 author: "Joel Kahn"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Is this how we write chapter 1?
 
+AHEM. This is chapter 1. Here is me writing down all the instructioons ladeedadeeda
+
+Now this is me inserting a url: google.com
